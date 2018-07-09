@@ -3,7 +3,7 @@
 
 your_favorite_word = "Cat"
 
-puts "my favorite animal #{your_favorite_word}"
+puts "my favorite animal is a #{your_favorite_word}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
