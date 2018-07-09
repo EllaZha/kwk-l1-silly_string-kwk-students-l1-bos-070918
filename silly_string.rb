@@ -13,9 +13,9 @@ puts "CAT #{favorite_word_in_all_caps}"
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
-phrase = "I'M NOT SHOUTING"
+phrase = "I'M NOT SHOUTING" 
 
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
+lowercased_phrase = phrase.swapcase # Put a . after phrase and use a String method.
 
 puts lowercased_phrase
 
