@@ -15,7 +15,7 @@ puts "CAT #{favorite_word_in_all_caps}"
 
 phrase = "I'M NOT SHOUTING" 
 
-lowercased_phrase = phrase.downcase # Put a . after phrase and use a String method.
+lowercased_phrase = phrase.swapcase # Put a . after phrase and use a String method.
 
 puts lowercased_phrase
 
